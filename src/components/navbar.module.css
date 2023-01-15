@@ -1,0 +1,14 @@
+.green-theme {
+    background-color: #adff2f;
+    color: black;
+}
+
+.blue-theme {
+    background-color: rgb(31, 31, 122);
+    color: rgb(255, 255, 255);
+}
+
+.purple-theme {
+    background-color: rgb(92, 22, 92);
+    color: black;
+}
